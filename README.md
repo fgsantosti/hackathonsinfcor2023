@@ -4,7 +4,7 @@
 
 ### Descrição do problema:
 
-Você e sua equipe foram selecionados para participar de um hackathon de desenvolvimento de software com foco em gestão ambiental. O desafio proposto é criar um software que facilite a coleta seletiva de resíduos, promovendo a prática sustentável de descarte e reciclagem. O objetivo é desenvolver uma ferramenta simples e eficiente que ajude os usuários a identificar os tipos de resíduos e os locais corretos para sua destinação adequada.
+Você foi selecionado para participar de um hackathon de desenvolvimento de software com foco em gestão ambiental. O desafio proposto é criar um software que facilite a coleta seletiva de resíduos, promovendo a prática sustentável de descarte e reciclagem. O objetivo é desenvolver uma ferramenta simples e eficiente que ajude os usuários a identificar os tipos de resíduos e os locais corretos para sua destinação adequada.
 
 ## Requisitos:
 
